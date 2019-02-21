@@ -1,2 +1,3 @@
-# public
-Public pages (published to https://zivcaspi.github.io/
+# zivcaspi/public
+
+Public pages (published to https://zivcaspi.github.io/)
